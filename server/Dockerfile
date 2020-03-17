@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 # default
-RUN apt update && apt upgrade
+RUN apt-get update && apt-get upgrade
 RUN apt-get update && apt-get install -y \
         curl \
         git \
