@@ -5,14 +5,6 @@ RUN apt-get install -y \
         curl \
         git \
         wget \
-        libfreetype6-dev \
-        libjpeg62-turbo-dev \
-        libmcrypt-dev \
-        libc-client-dev \
-        libkrb5-dev \
-        libpng-dev \
-        zlib1g-dev \
-        libicu-dev \
         unzip \
         gnupg \
         g++
